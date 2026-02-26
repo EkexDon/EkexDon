@@ -1,11 +1,9 @@
-&lt;h1 align="center"&gt;Hi there, I'm Ekin Baca 👋&lt;/h1&gt;
-&lt;h3 align="center"&gt;Medieninformatik Student | Backend • Frontend • VR & Game Developer&lt;/h3&gt;
+# Hi there, I'm Ekin Baca 👋
+### Medieninformatik Student | Backend • Frontend • VR & Game Developer
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:EB085@HdM-Stuttgart.de"&gt;&lt;img src="https://img.shields.io/badge/Email-EB085@HdM--Stuttgart.de-blue?style=flat-square&logo=gmail"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/EkexDon"&gt;&lt;img src="https://img.shields.io/badge/GitHub-EkexDon-181717?style=flat-square&logo=github"&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Stuttgart,%20Germany-ff69b4?style=flat-square"&gt;
-&lt;/p&gt;
+[![Email](https://img.shields.io/badge/Email-EB085@HdM--Stuttgart.de-blue?style=flat-square&logo=gmail)](mailto:EB085@HdM-Stuttgart.de)
+[![GitHub](https://img.shields.io/badge/GitHub-EkexDon-181717?style=flat-square&logo=github)](https://github.com/EkexDon)
+![Location](https://img.shields.io/badge/Location-Stuttgart,%20Germany-ff69b4?style=flat-square)
 
 ---
 
@@ -52,8 +50,8 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ## 📚 Featured Projects
 
-### ☁️ Sentio Systems 
-&gt; Cloud platform for hyperlocal environmental monitoring
+### ☁️ Sentio Systems
+> Cloud platform for hyperlocal environmental monitoring
 
 - 🏗️ **Architecture:** Designed microservices architecture for IoT data processing
 - 🔧 **Tech:** Java (Spring Boot), PostgreSQL, Docker, MQTT, Keycloak
@@ -64,7 +62,7 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 ---
 
 ### 🥽 Silent-Veil — *VR Developer & Technical Artist*
-&gt; Immersive VR experience built from scratch
+> Immersive VR experience built from scratch
 
 - 🎮 **Engine:** Unity with C# and XR Interaction Toolkit
 - ✋ **Interactions:** Custom hand interaction system (grabbing, teleportation, trigger events)
@@ -73,7 +71,7 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 ---
 
 ### 🌤️ WeatherHub — *Fullstack Developer*
-&gt; Web application for environmental data visualization
+> Web application for environmental data visualization
 
 - 📊 **Visualize:** CO2 and temperature data in real-time
 - ⚛️ **Frontend:** React with modern UI/UX
@@ -83,7 +81,7 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 ---
 
 ### 🌱 Fancyplants — *QA Tester*
-&gt; Game quality assurance
+> Game quality assurance
 
 - 🐛 Systematic bug and glitch identification
 - 📝 Detailed reporting and documentation workflows
@@ -115,10 +113,6 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=EkexDon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /&gt;
-&lt;/p&gt;
+![Profile views](https://komarev.com/ghpvc/?username=EkexDon&label=Profile%20views&color=0e75b6&style=flat)
 
-&lt;p align="center"&gt;
-  &lt;i&gt;Let's build something amazing together! 🚀&lt;/i&gt;
-&lt;/p&gt;
+*Let's build something amazing together! 🚀*
