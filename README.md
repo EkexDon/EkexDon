@@ -9,12 +9,11 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionate about building scalable backend systems, immersive VR experiences, and clean frontend interfaces. Currently specializing in cloud architecture and IoT solutions.
+I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionate about building scalable backend systems, immersive VR experiences, and clean frontend interfaces.
 
-- 🔭 Working on **cloud-native microservices** for environmental monitoring
 - 🌱 Learning **System Design** and **DevOps practices**
 - 🎮 Developing VR experiences with Unity & XR Interaction Toolkit
-- 💡 Interested in **IoT**, **3D Modeling**, and **Open Source**
+- 💡 Interested in **Frontend**, **3D Modeling**, and **Open Source**
 
 ---
 
