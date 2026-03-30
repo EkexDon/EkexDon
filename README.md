@@ -113,7 +113,7 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 ### ⚡ SilentTex — *Fullstack Developer*
 > Self-hosted real-time LaTeX editor — Overleaf alternative with instant preview
 
-[![GitHub](https://img.shields.io/badge/GitHub-SilentTex-181717?style=flat-square&logo=github)](https://github.com/EkexDon/SilentTex)
+[![GitHub](https://img.shields.io/badge/GitHub-SilentTex-181717?style=flat-square&logo=github)](https://github.com/EkexDon/SilentTex) [![Live](https://img.shields.io/badge/Live-silenttex.onrender.com-00C7B7?style=flat-square&logo=render)](https://silenttex.onrender.com)
 
 - 🔄 **Live Preview:** Instant auto-compile with bidirectional PDF sync
 - 🏗️ **Architecture:** Microservice architecture for scalability
@@ -134,7 +134,7 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 ### 🔗 Share-Link-Space — *Solo Developer*
 > A platform for sharing and managing links in one space
 
-[![GitHub](https://img.shields.io/badge/GitHub-Share--Link--Space-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Share-Link-Space)
+[![GitHub](https://img.shields.io/badge/GitHub-Share--Link--Space-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Share-Link-Space) [![Live](https://img.shields.io/badge/Live-share--link--space.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://share-link-space.vercel.app/#/)
 
 - 🌐 **Link Management:** Collect and organize shared links in a central space
 - 🤝 **Sharing:** Easy link sharing and collaboration
