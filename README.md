@@ -87,6 +87,50 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🌐 MacroIntelTerminal — *Fullstack Developer*
+> Real-time financial and geopolitical command center dashboard
+
+[![GitHub](https://img.shields.io/badge/GitHub-MacroIntelTerminal-181717?style=flat-square&logo=github)](https://github.com/EkexDon/MacroIntelTerminal) [![Live](https://img.shields.io/badge/Live-macro--intel--terminal.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://macro-intel-terminal.vercel.app)
+
+- 📡 **Intelligence Feed:** Aggregates real-time news from premium RSS sources with macro-economic focus
+- 🗺️ **Global Map:** Interactive 2D vector map rendering geo-linked intelligence heat signatures
+- 📈 **Market Correlation:** Every news event dynamically correlates to live market gainers and losers
+- 🎛️ **SONAR Alerts:** Keyword-triggered Web Audio API alerts with visual flash indicators
+- ⚙️ **Tech:** TypeScript, Next.js 15, React 19, Tailwind CSS v4
+
+---
+
+### 📓 Silence-Project — *Solo Developer*
+> Minimalist journaling app enforcing one short entry per day
+
+[![GitHub](https://img.shields.io/badge/GitHub-Silence--Project-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Silence-Project)
+
+- 📝 **Concept:** Encourages mindful, intentional daily journaling through strict entry limits
+- ☕ **Tech:** Java
+
+---
+
+### ⚡ SilentTex — *Fullstack Developer*
+> Self-hosted real-time LaTeX editor — Overleaf alternative with instant preview
+
+[![GitHub](https://img.shields.io/badge/GitHub-SilentTex-181717?style=flat-square&logo=github)](https://github.com/EkexDon/SilentTex)
+
+- 🔄 **Live Preview:** Instant auto-compile with bidirectional PDF sync
+- 🏗️ **Architecture:** Microservice architecture for scalability
+- ⚙️ **Tech:** TypeScript, React, Spring Boot, Docker
+
+---
+
+### 📄 AnschreibenGen1.3 — *Solo Developer*
+> Automated job application cover letter generator
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnschreibenGen1.3-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AnschreibenGen1.3)
+
+- 🤖 **Automation:** Generates tailored cover letters for job applications
+- ⚙️ **Tech:** JavaScript
+
+---
+
 ## 💼 Experience
 
 - **2021–2022:** Security Services @ BEKK-Security (Schweizer Electronics AG)
