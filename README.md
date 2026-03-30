@@ -131,6 +131,16 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🔗 Share-Link-Space — *Solo Developer*
+> A platform for sharing and managing links in one space
+
+[![GitHub](https://img.shields.io/badge/GitHub-Share--Link--Space-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Share-Link-Space)
+
+- 🌐 **Link Management:** Collect and organize shared links in a central space
+- 🤝 **Sharing:** Easy link sharing and collaboration
+
+---
+
 ## 💼 Experience
 
 - **2021–2022:** Security Services @ BEKK-Security (Schweizer Electronics AG)
