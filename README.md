@@ -87,6 +87,20 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🧠 NoPes — *Solo Developer*
+> High-performance, local-first knowledge base app — Obsidian alternative
+
+[![GitHub](https://img.shields.io/badge/GitHub-NoPes-181717?style=flat-square&logo=github)](https://github.com/EkexDon/NoPes) [![Live](https://img.shields.io/badge/Live-nopes--web.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://nopes-web.vercel.app/)
+
+- 📂 **Multi-Tab Interface:** Edit multiple notes simultaneously with a persistent tab bar
+- 🔗 **Interactive WikiLinks:** Seamlessly connect thoughts with `[[WikiLinks]]`, hover previews, and one-click navigation
+- 🕸️ **Live Graph View:** Visualize note connections in a high-performance network graph
+- ⚡ **Command Bar (Cmd+K):** Keyboard-driven command palette for instant file and action access
+- 🔒 **Local-First & Private:** Works directly with local Markdown files — your data never leaves your computer
+- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap, Zustand
+
+---
+
 ### 🌐 MacroIntelTerminal — *Fullstack Developer*
 > Real-time financial and geopolitical command center dashboard
 
