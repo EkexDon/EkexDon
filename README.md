@@ -9,11 +9,14 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionate about building scalable backend systems, immersive VR experiences, and clean frontend interfaces.
+I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionate about building scalable backend systems, local-first desktop apps, AI-powered tools, and clean full-stack interfaces.
 
-- 🌱 Learning **System Design** and **DevOps practices**
+- 🤖 Building **local AI assistants** and **RAG pipelines** with Ollama & ChromaDB
+- 🖥️ Crafting **desktop apps** with Tauri & Rust alongside TypeScript/React frontends
+- 📡 Developing **real-time dashboards** and data-driven web applications
+- 🔒 Focused on **privacy-first**, local-first software that keeps data on your machine
 - 🎮 Developing VR experiences with Unity & XR Interaction Toolkit
-- 💡 Interested in **Frontend**, **3D Modeling**, and **Open Source**
+- 💡 Interested in **Open Source**, **AI tooling**, and **developer productivity**
 
 ---
 
