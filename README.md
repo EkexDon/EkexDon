@@ -155,6 +155,30 @@ I'm a **Computer Science student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🏥 E² Reg — *Solo Developer*
+> Intelligent regulatory compliance platform for European medical device regulations
+
+- 🤖 **AI Swarm Architecture:** Multi-agent system orchestrated by a Queen Coordinator dispatching tasks to specialist agents
+- 📑 **GSPR Auto-Mapper:** Automatically maps evidence against General Safety and Performance Requirements (Annex I MDR) with dynamic readiness scoring
+- ⚠️ **Risk File Generator:** Generates ISO 14971-compliant Risk Management plans from technical specs, including hazard and severity matrices
+- 📚 **Literature Review Bot:** Automates SOTA literature queries for clinical evaluations against medical databases
+- 🔮 **Submission Predictor:** Mock reviewer that predicts likely Notified Body queries before submission
+- 🌐 **EUDAMED Bridge:** Pre-validates data and generates compliant XML payloads for EUDAMED device uploads
+- ⚙️ **Tech:** Python 3.10+, FastAPI, Pydantic, PyMuPDF, HTML5/CSS3/Vanilla JS
+
+---
+
+### 🤖 E² Ebel & Baca CLI — *Solo Developer*
+> Local AI-powered coding assistant — a Claude Code clone running entirely on your machine via Ollama
+
+- 🔒 **Privacy-First:** No cloud, no API keys — all inference runs locally and securely in your terminal
+- 🧠 **RAG Integration:** ChromaDB-powered Retrieval-Augmented Generation bypasses local LLM context limits, enabling understanding of massive codebases
+- 🔌 **Ollama Native:** Plug-and-play with any locally installed Ollama model (e.g. `llama3.2`, `qwen2.5-coder`)
+- 🗂️ **Slash Commands:** `/index` builds a vector DB of the current codebase, `/models` lists installed models, `/help` shows all commands
+- ⚙️ **Tech:** Python, ChromaDB, Ollama
+
+---
+
 ## 💼 Experience
 
 - **2021–2022:** Security Services @ BEKK-Security (Schweizer Electronics AG)
