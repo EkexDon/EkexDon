@@ -100,16 +100,24 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 ---
 
 ### 🧠 NoPes — *Solo Developer*
-> High-performance, local-first knowledge base app — Obsidian alternative
+> Professional-grade, local-first knowledge management tool — Obsidian alternative built for speed, privacy, and visual thinking
 
 [![GitHub](https://img.shields.io/badge/GitHub-NoPes-181717?style=flat-square&logo=github)](https://github.com/EkexDon/NoPes) [![Live](https://img.shields.io/badge/Live-nopes--web.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://nopes-web.vercel.app/)
 
+**🔥 Pro Features**
+
+- 🎨 **Infinite Canvas (Whiteboard):** Excalidraw integration with `[[WikiLink]]`-linked shapes, auto-save, and visual mind mapping
+- 🧜 **Mermaid.js Diagrams:** Native rendering for flowcharts, sequence diagrams & Gantt charts with live preview / source toggle
+- 🤖 **Local AI Assistant (Ollama):** 100% offline, context-aware AI — chat with your vault, summarize notes, brainstorm — no API keys, no tracking
+- 📋 **Slash Command Templates:** `/template` command for Daily Notes, Meeting Minutes, Bug Reports, Code Reviews, and more
+- 🧊 **Advanced Table Editor:** Floating toolbar, header toggling, row/column management — built on TipTap table suite
+- 🔗 **Deep Interconnectivity:** Interactive `[[WikiLinks]]` with hover previews, Live Graph View, and Unlinked Mentions discovery
 - 📂 **Multi-Tab Interface:** Edit multiple notes simultaneously with a persistent tab bar
-- 🔗 **Interactive WikiLinks:** Seamlessly connect thoughts with `[[WikiLinks]]`, hover previews, and one-click navigation
-- 🕸️ **Live Graph View:** Visualize note connections in a high-performance network graph
-- ⚡ **Command Bar (Cmd+K):** Keyboard-driven command palette for instant file and action access
-- 🔒 **Local-First & Private:** Works directly with local Markdown files — your data never leaves your computer
-- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap, Zustand
+- ⚡ **Command Bar (Cmd+K):** Blazing-fast keyboard-driven command palette
+- 📄 **Word to Markdown:** Drag-and-drop `.docx` files for instant high-fidelity conversion
+- 🖥️ **Rich Media:** Native inline support for PDFs, Videos, and Images
+- 🔒 **Local-First & Private:** Works directly with `.md` files — your data never leaves your machine
+- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap / ProseMirror, Excalidraw, Mermaid.js, Zustand, Ollama (Llama 3.2)
 
 ---
 
