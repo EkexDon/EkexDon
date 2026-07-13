@@ -61,6 +61,39 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ## 📚 Featured Projects
 
+### 🆕 New Projects (2026)
+
+### 🎵 rhythmBeat — *Solo Developer*
+> Desktop audio-reactive visual overlay
+
+[![GitHub](https://img.shields.io/badge/GitHub-RythmBeat-181717?style=flat-square&logo=github)](https://github.com/EkexDon/RythmBeat)
+
+- 🔊 **Audio Processing:** Real-time system audio capture with FFT analysis and beat detection
+- 🌌 **Visualizer:** Three.js particle nucleus with bass-triggered shockwave effects
+- 🖥️ **Desktop App:** Tauri v2 overlay mode, fullscreen mode, tray controls, and global shortcut support
+- ⚙️ **Tech:** Rust, Tauri v2, TypeScript, React, Vite, Three.js
+
+---
+
+### 🔒 LOCK-IN — *Solo Developer*
+> Brutal daily self-check PWA focused on discipline
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lock--In-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Lock-In)
+
+- ✅ **Daily Check:** Five strict yes/no accountability questions
+- 📉 **Tracking:** 30-day silent graph, immutable archive, and one-shot context note
+- 📱 **Offline-First:** Installable PWA with no backend and no cloud dependency
+- ⚙️ **Tech:** HTML, CSS, JavaScript, PWA
+
+---
+
+### 📝 Do-List — *Solo Developer*
+> New productivity project currently in setup phase
+
+[![GitHub](https://img.shields.io/badge/GitHub-Do--List-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Do-List)
+
+---
+
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
