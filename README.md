@@ -61,6 +61,51 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ## 📚 Featured Projects
 
+### 🧠 AETHER-OS — *Solo Developer*
+> Local-first cognitive operating system that unifies notes, coding, terminal, browser, and AI in one desktop app
+
+[![GitHub](https://img.shields.io/badge/GitHub-AETHER--OS-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AETHER-OS)
+
+- 🖥️ **All-in-One Workspace:** Dashboard, note editor, IDE, terminal, browser, system monitor, semantic search, and knowledge graph
+- 🤖 **Multi-Provider AI Agent:** Private local Ollama + cloud OpenRouter support with persistent AI memory
+- 🔗 **Deep Knowledge Layer:** Wikilinks, backlinks, unlinked mentions, graph navigation, and semantic retrieval
+- ⚙️ **Tech:** Tauri 2, Rust, TypeScript, React, Monaco, xterm.js, Zustand
+
+---
+
+### 🧠 NoPes — *Solo Developer*
+> Professional-grade, local-first knowledge management tool — Obsidian alternative built for speed, privacy, and visual thinking
+
+[![GitHub](https://img.shields.io/badge/GitHub-NoPes-181717?style=flat-square&logo=github)](https://github.com/EkexDon/NoPes) [![Live](https://img.shields.io/badge/Live-nopes--web.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://nopes-web.vercel.app/)
+
+**🔥 Pro Features**
+
+- 🎨 **Infinite Canvas (Whiteboard):** Excalidraw integration with `[[WikiLink]]`-linked shapes, auto-save, and visual mind mapping
+- 🧜 **Mermaid.js Diagrams:** Native rendering for flowcharts, sequence diagrams & Gantt charts with live preview / source toggle
+- 🤖 **Local AI Assistant (Ollama):** 100% offline, context-aware AI — chat with your vault, summarize notes, brainstorm — no API keys, no tracking
+- 📋 **Slash Command Templates:** `/template` command for Daily Notes, Meeting Minutes, Bug Reports, Code Reviews, and more
+- 🧊 **Advanced Table Editor:** Floating toolbar, header toggling, row/column management — built on TipTap table suite
+- 🔗 **Deep Interconnectivity:** Interactive `[[WikiLinks]]` with hover previews, Live Graph View, and Unlinked Mentions discovery
+- 📂 **Multi-Tab Interface:** Edit multiple notes simultaneously with a persistent tab bar
+- ⚡ **Command Bar (Cmd+K):** Blazing-fast keyboard-driven command palette
+- 📄 **Word to Markdown:** Drag-and-drop `.docx` files for instant high-fidelity conversion
+- 🖥️ **Rich Media:** Native inline support for PDFs, Videos, and Images
+- 🔒 **Local-First & Private:** Works directly with `.md` files — your data never leaves your machine
+- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap / ProseMirror, Excalidraw, Mermaid.js, Zustand, Ollama (Llama 3.2)
+
+---
+
+### 🌌 RepoVerse — *Solo Developer*
+> Cinematic 3D developer universe that visualizes GitHub repositories as orbiting worlds
+
+[![GitHub](https://img.shields.io/badge/GitHub-RepoVerse-181717?style=flat-square&logo=github)](https://github.com/EkexDon/RepoVerse)
+
+- 🛰️ **Spatial Repository UX:** Real-time 3D repository galaxy with orbiting project nodes and interactive HUD
+- 🧭 **Developer Intelligence:** Public GitHub profile lookup with live repository metadata exploration
+- ⚙️ **Tech:** TypeScript, Next.js, React Three Fiber, NestJS, Prisma, PostgreSQL
+
+---
+
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
@@ -96,28 +141,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 - 🐛 Systematic bug and glitch identification
 - 📝 Detailed reporting and documentation workflows
-
----
-
-### 🧠 NoPes — *Solo Developer*
-> Professional-grade, local-first knowledge management tool — Obsidian alternative built for speed, privacy, and visual thinking
-
-[![GitHub](https://img.shields.io/badge/GitHub-NoPes-181717?style=flat-square&logo=github)](https://github.com/EkexDon/NoPes) [![Live](https://img.shields.io/badge/Live-nopes--web.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://nopes-web.vercel.app/)
-
-**🔥 Pro Features**
-
-- 🎨 **Infinite Canvas (Whiteboard):** Excalidraw integration with `[[WikiLink]]`-linked shapes, auto-save, and visual mind mapping
-- 🧜 **Mermaid.js Diagrams:** Native rendering for flowcharts, sequence diagrams & Gantt charts with live preview / source toggle
-- 🤖 **Local AI Assistant (Ollama):** 100% offline, context-aware AI — chat with your vault, summarize notes, brainstorm — no API keys, no tracking
-- 📋 **Slash Command Templates:** `/template` command for Daily Notes, Meeting Minutes, Bug Reports, Code Reviews, and more
-- 🧊 **Advanced Table Editor:** Floating toolbar, header toggling, row/column management — built on TipTap table suite
-- 🔗 **Deep Interconnectivity:** Interactive `[[WikiLinks]]` with hover previews, Live Graph View, and Unlinked Mentions discovery
-- 📂 **Multi-Tab Interface:** Edit multiple notes simultaneously with a persistent tab bar
-- ⚡ **Command Bar (Cmd+K):** Blazing-fast keyboard-driven command palette
-- 📄 **Word to Markdown:** Drag-and-drop `.docx` files for instant high-fidelity conversion
-- 🖥️ **Rich Media:** Native inline support for PDFs, Videos, and Images
-- 🔒 **Local-First & Private:** Works directly with `.md` files — your data never leaves your machine
-- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap / ProseMirror, Excalidraw, Mermaid.js, Zustand, Ollama (Llama 3.2)
 
 ---
 
