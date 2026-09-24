@@ -61,15 +61,16 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ## 📚 Featured Projects
 
-### 🧠 AETHER-OS — *Solo Developer*
-> Local-first cognitive operating system that unifies notes, coding, terminal, browser, and AI in one desktop app
+### 🪐 AETHER-OS — *Solo Developer*
+> Local-first personal operating system for notes, projects, and AI — private by default and built as one keyboard-first desktop app
 
-[![GitHub](https://img.shields.io/badge/GitHub-AETHER--OS-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AETHER-OS)
+[![GitHub](https://img.shields.io/badge/GitHub-AETHER--OS-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AETHER-OS) [![Release](https://img.shields.io/github/v/release/EkexDon/AETHER-OS?style=flat-square)](https://github.com/EkexDon/AETHER-OS/releases/latest)
 
-- 🖥️ **All-in-One Workspace:** Dashboard, note editor, IDE, terminal, browser, system monitor, semantic search, and knowledge graph
-- 🤖 **Multi-Provider AI Agent:** Private local Ollama + cloud OpenRouter support with persistent AI memory
-- 🔗 **Deep Knowledge Layer:** Wikilinks, backlinks, unlinked mentions, graph navigation, and semantic retrieval
-- ⚙️ **Tech:** Tauri 2, Rust, TypeScript, React, Monaco, xterm.js, Zustand
+- 🚀 **Status:** Officially launched
+- 🧠 **All-in-One Workspace:** Notes, graph, semantic search, AI notes, IDE, projects, terminal, tasks, calendar, clipboard, browser, and monitor in one app
+- 🤖 **AI System:** Multi-provider agent (Ollama/OpenRouter) with grounded note context, memory, approvals, and local audit trail
+- 🔐 **Privacy & Ownership:** Markdown vault stays local, encrypted sync/backup options, no telemetry, user-controlled data paths
+- ⚙️ **Platform Depth:** Tauri 2 + React + Rust architecture with 237 IPC commands, extensive test coverage, and cross-platform desktop releases
 
 ---
 
@@ -105,7 +106,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - ⚙️ **Tech:** TypeScript, Next.js, React Three Fiber, NestJS, Prisma, PostgreSQL
 
 ---
-
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
