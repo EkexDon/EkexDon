@@ -62,13 +62,15 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 ## 📚 Featured Projects
 
 ### 🪐 AETHER-OS — *Solo Developer*
-> Newly launched privacy-first operating system project focused on speed, control, and local-first computing
+> Local-first personal operating system for notes, projects, and AI — private by default and built as one keyboard-first desktop app
 
-[![GitHub](https://img.shields.io/badge/GitHub-AETHER--OS-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AETHER-OS)
+[![GitHub](https://img.shields.io/badge/GitHub-AETHER--OS-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AETHER-OS) [![Release](https://img.shields.io/github/v/release/EkexDon/AETHER-OS?style=flat-square)](https://github.com/EkexDon/AETHER-OS/releases/latest)
 
 - 🚀 **Status:** Officially launched
-- 🔒 **Vision:** Local-first, user-controlled computing experience
-- ⚙️ **Focus:** Performance, privacy, and developer-centric workflows
+- 🧠 **All-in-One Workspace:** Notes, graph, semantic search, AI notes, IDE, projects, terminal, tasks, calendar, clipboard, browser, and monitor in one app
+- 🤖 **AI System:** Multi-provider agent (Ollama/OpenRouter) with grounded note context, memory, approvals, and local audit trail
+- 🔐 **Privacy & Ownership:** Markdown vault stays local, encrypted sync/backup options, no telemetry, user-controlled data paths
+- ⚙️ **Platform Depth:** Tauri 2 + React + Rust architecture with 237 IPC commands, extensive test coverage, and cross-platform desktop releases
 
 ---
 
