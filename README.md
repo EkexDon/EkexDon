@@ -96,6 +96,16 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🌌 RepoVerse — *Solo Developer*
+> Cinematic 3D developer universe that visualizes GitHub repositories as orbiting worlds
+
+[![GitHub](https://img.shields.io/badge/GitHub-RepoVerse-181717?style=flat-square&logo=github)](https://github.com/EkexDon/RepoVerse)
+
+- 🛰️ **Spatial Repository UX:** Real-time 3D repository galaxy with orbiting project nodes and interactive HUD
+- 🧭 **Developer Intelligence:** Public GitHub profile lookup with live repository metadata exploration
+- ⚙️ **Tech:** TypeScript, Next.js, React Three Fiber, NestJS, Prisma, PostgreSQL
+
+---
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
