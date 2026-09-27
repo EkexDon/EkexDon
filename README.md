@@ -96,6 +96,16 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
+### 🧩 Omnidesk Hub — *Solo Developer*
+> Unified workspace hub for productivity tools and dashboards
+
+[![GitHub](https://img.shields.io/badge/GitHub-omnidesk--hub-181717?style=flat-square&logo=github)](https://github.com/EkexDon/omnidesk-hub) [![Live](https://img.shields.io/badge/Live-ekexdon.github.io%2Fomnidesk-00C7B7?style=flat-square&logo=githubpages)](https://ekexdon.github.io/omnidesk/)
+
+- 🌐 **Website:** https://ekexdon.github.io/omnidesk/
+- ⚙️ **Code:** https://github.com/EkexDon/omnidesk-hub
+
+---
+
 ### 🌌 RepoVerse — *Solo Developer*
 > Cinematic 3D developer universe that visualizes GitHub repositories as orbiting worlds
 
