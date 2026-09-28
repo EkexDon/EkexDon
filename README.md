@@ -168,41 +168,17 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
-### 📓 Silence-Project — *Solo Developer*
-> Minimalist journaling app enforcing one short entry per day
-
-[![GitHub](https://img.shields.io/badge/GitHub-Silence--Project-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Silence-Project)
-
-- 📝 **Concept:** Encourages mindful, intentional daily journaling through strict entry limits
-- ☕ **Tech:** Java
-
----
-
 ### ⚡ SilentTex — *Fullstack Developer*
 > Self-hosted real-time LaTeX editor — Overleaf alternative with instant preview
 
 [![GitHub](https://img.shields.io/badge/GitHub-SilentTex-181717?style=flat-square&logo=github)](https://github.com/EkexDon/SilentTex) [![Live](https://img.shields.io/badge/Live-silenttex.onrender.com-00C7B7?style=flat-square&logo=render)](https://silenttex.onrender.com)
-
-- 🔄 **Live Preview:** Instant auto-compile with bidirectional PDF sync
-- 🏗️ **Architecture:** Microservice architecture for scalability
-- ⚙️ **Tech:** TypeScript, React, Spring Boot, Docker
-
----
-
-### 📄 AnschreibenGen1.3 — *Solo Developer*
-> Automated job application cover letter generator
-
-[![GitHub](https://img.shields.io/badge/GitHub-AnschreibenGen1.3-181717?style=flat-square&logo=github)](https://github.com/EkexDon/AnschreibenGen1.3)
-
-- 🤖 **Automation:** Generates tailored cover letters for job applications
-- ⚙️ **Tech:** JavaScript
 
 ---
 
 ### 🔗 Share-Link-Space — *Solo Developer*
 > A platform for sharing and managing links in one space
 
-[![GitHub](https://img.shields.io/badge/GitHub-Share--Link--Space-181717?style=flat-square&logo=github)](https://github.com/EkexDon/Share-Link-Space) [![Live](https://img.shields.io/badge/Live-share--link--space.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://share-link-space.vercel.app/#/)
+!!!Currently Offline
 
 - 🌐 **Link Management:** Collect and organize shared links in a central space
 - 🤝 **Sharing:** Easy link sharing and collaboration
@@ -212,24 +188,10 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 ### 🏥 E² Reg — *Solo Developer*
 > Intelligent regulatory compliance platform for European medical device regulations
 
-- 🤖 **AI Swarm Architecture:** Multi-agent system orchestrated by a Queen Coordinator dispatching tasks to specialist agents
-- 📑 **GSPR Auto-Mapper:** Automatically maps evidence against General Safety and Performance Requirements (Annex I MDR) with dynamic readiness scoring
-- ⚠️ **Risk File Generator:** Generates ISO 14971-compliant Risk Management plans from technical specs, including hazard and severity matrices
-- 📚 **Literature Review Bot:** Automates SOTA literature queries for clinical evaluations against medical databases
-- 🔮 **Submission Predictor:** Mock reviewer that predicts likely Notified Body queries before submission
-- 🌐 **EUDAMED Bridge:** Pre-validates data and generates compliant XML payloads for EUDAMED device uploads
-- ⚙️ **Tech:** Python 3.10+, FastAPI, Pydantic, PyMuPDF, HTML5/CSS3/Vanilla JS
-
 ---
 
 ### 🤖 E² Ebel & Baca CLI — *Solo Developer*
 > Local AI-powered coding assistant — a Claude Code clone running entirely on your machine via Ollama
-
-- 🔒 **Privacy-First:** No cloud, no API keys — all inference runs locally and securely in your terminal
-- 🧠 **RAG Integration:** ChromaDB-powered Retrieval-Augmented Generation bypasses local LLM context limits, enabling understanding of massive codebases
-- 🔌 **Ollama Native:** Plug-and-play with any locally installed Ollama model (e.g. `llama3.2`, `qwen2.5-coder`)
-- 🗂️ **Slash Commands:** `/index` builds a vector DB of the current codebase, `/models` lists installed models, `/help` shows all commands
-- ⚙️ **Tech:** Python, ChromaDB, Ollama
 
 ---
 
