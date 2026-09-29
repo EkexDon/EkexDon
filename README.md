@@ -106,17 +106,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 🧠 **Focus:** Clean UX, centralized access to tools, and fast navigation across productivity modules
 
 ---
-
-### 🌌 RepoVerse — *Solo Developer*
-> Cinematic 3D developer universe that visualizes GitHub repositories as orbiting worlds
-
-[![GitHub](https://img.shields.io/badge/GitHub-RepoVerse-181717?style=flat-square&logo=github)](https://github.com/EkexDon/RepoVerse)
-
-- 🛰️ **Spatial Repository UX:** Real-time 3D repository galaxy with orbiting project nodes and interactive HUD
-- 🧭 **Developer Intelligence:** Public GitHub profile lookup with live repository metadata exploration
-- ⚙️ **Tech:** TypeScript, Next.js, React Three Fiber, NestJS, Prisma, PostgreSQL
-
----
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
@@ -134,16 +123,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 🎮 **Engine:** Unity with C# and XR Interaction Toolkit
 - ✋ **Interactions:** Custom hand interaction system (grabbing, teleportation, trigger events)
 - 🎨 **Animation:** Independent rigging and animating of hand models for immersive gameplay
-
----
-
-### 🌤️ WeatherHub — *Fullstack Developer*
-> Web application for environmental data visualization
-
-- 📊 **Visualize:** CO2 and temperature data in real-time
-- ⚛️ **Frontend:** React with modern UI/UX
-- 🔌 **Backend:** REST API integration
-- 🖥️ **Hardware:** Raspberry Pi sensor integration
 
 ---
 
@@ -168,35 +147,8 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
-### ⚡ SilentTex — *Fullstack Developer*
-> Self-hosted real-time LaTeX editor — Overleaf alternative with instant preview
-
-[![GitHub](https://img.shields.io/badge/GitHub-SilentTex-181717?style=flat-square&logo=github)](https://github.com/EkexDon/SilentTex) [![Live](https://img.shields.io/badge/Live-silenttex.onrender.com-00C7B7?style=flat-square&logo=render)](https://silenttex.onrender.com)
-
----
-
-### 🔗 Share-Link-Space — *Solo Developer*
-> A platform for sharing and managing links in one space
-
-!!!Currently Offline
-
-- 🌐 **Link Management:** Collect and organize shared links in a central space
-- 🤝 **Sharing:** Easy link sharing and collaboration
-
----
-
-### 🏥 E² Reg — *Solo Developer*
-> Intelligent regulatory compliance platform for European medical device regulations
-
----
-
-### 🤖 E² Ebel & Baca CLI — *Solo Developer*
-> Local AI-powered coding assistant — a Claude Code clone running entirely on your machine via Ollama
-
----
-
 ## 💼 Experience
-
+- **2026-2026:** Data Sciene Intern @ Lechler GmbH
 - **2021–2022:** Security Services @ BEKK-Security (Schweizer Electronics AG)
 - **2018:** IT Internship @ MS-Schramberg (System integration & IT infrastructure)
 
