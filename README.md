@@ -106,6 +106,7 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 🧠 **Focus:** Clean UX, centralized access to tools, and fast navigation across productivity modules
 
 ---
+
 ### ☁️ Sentio Systems
 > Cloud platform for hyperlocal environmental monitoring
 
@@ -114,23 +115,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 📡 **IoT Integration:** Connected environmental sensors via MQTT protocol
 - ✅ **Quality:** Implemented Testcontainers for integration testing & Flyway for DB migrations
 - 📖 **Documentation:** Designed and documented RESTful APIs
-
----
-
-### 🥽 Silent-Veil — *VR Developer & Technical Artist*
-> Immersive VR experience built from scratch
-
-- 🎮 **Engine:** Unity with C# and XR Interaction Toolkit
-- ✋ **Interactions:** Custom hand interaction system (grabbing, teleportation, trigger events)
-- 🎨 **Animation:** Independent rigging and animating of hand models for immersive gameplay
-
----
-
-### 🌱 Fancyplants — *QA Tester*
-> Game quality assurance
-
-- 🐛 Systematic bug and glitch identification
-- 📝 Detailed reporting and documentation workflows
 
 ---
 
