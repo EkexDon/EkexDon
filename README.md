@@ -104,7 +104,7 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 🌐 **Website:** https://ekexdon.github.io/omnidesk/
 - ⚙️ **Code:** https://github.com/EkexDon/omnidesk-hub
 - 🧠 **Focus:** Clean UX, centralized access to tools, and fast navigation across productivity modules
-
+- 🖥️ **Claude-MCP:** New Feature added. You can now connect Omnidesk Hub to claude with our MCP server to speed up your workflows
 ---
 
 ### ☁️ Sentio Systems
@@ -115,7 +115,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 📡 **IoT Integration:** Connected environmental sensors via MQTT protocol
 - ✅ **Quality:** Implemented Testcontainers for integration testing & Flyway for DB migrations
 - 📖 **Documentation:** Designed and documented RESTful APIs
-
 ---
 
 ### 🌐 MacroIntelTerminal — *Fullstack Developer*
