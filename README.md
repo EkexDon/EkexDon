@@ -61,6 +61,18 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ## 📚 Featured Projects
 
+### 🧩 Omnidesk Hub — *Solo Developer*
+> Modular productivity workspace that brings smart tools, dashboards, and workflows together in one fast, unified platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-omnidesk--hub-181717?style=flat-square&logo=github)](https://github.com/EkexDon/omnidesk-hub) [![Live](https://img.shields.io/badge/Live-ekexdon.github.io%2Fomnidesk-00C7B7?style=flat-square&logo=githubpages)](https://ekexdon.github.io/omnidesk/)
+
+- 🌐 **Website:** https://ekexdon.github.io/omnidesk/
+- ⚙️ **Code:** https://github.com/EkexDon/omnidesk-hub
+- 🧠 **Focus:** Clean UX, centralized access to tools, and fast navigation across productivity modules
+- 🖥️ **MCP Integration:** Connect Omnidesk Hub with Claude through the MCP server to accelerate workflows
+
+---
+
 ### 🪐 AETHER-OS — *Solo Developer*
 > Local-first personal operating system for notes, projects, and AI — private by default and built as one keyboard-first desktop app
 
@@ -94,17 +106,6 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 - 🔒 **Local-First & Private:** Works directly with `.md` files — your data never leaves your machine
 - ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap / ProseMirror, Excalidraw, Mermaid.js, Zustand, Ollama (Llama 3.2)
 
----
-
-### 🧩 Omnidesk Hub — *Solo Developer*
-> Modular productivity platform that unifies smart tools, dashboards, and workflows in one modern workspace
-
-[![GitHub](https://img.shields.io/badge/GitHub-omnidesk--hub-181717?style=flat-square&logo=github)](https://github.com/EkexDon/omnidesk-hub) [![Live](https://img.shields.io/badge/Live-ekexdon.github.io%2Fomnidesk-00C7B7?style=flat-square&logo=githubpages)](https://ekexdon.github.io/omnidesk/)
-
-- 🌐 **Website:** https://ekexdon.github.io/omnidesk/
-- ⚙️ **Code:** https://github.com/EkexDon/omnidesk-hub
-- 🧠 **Focus:** Clean UX, centralized access to tools, and fast navigation across productivity modules
-- 🖥️ **Claude-MCP:** New Feature added. You can now connect Omnidesk Hub to claude with our MCP server to speed up your workflows
 ---
 
 ### ☁️ Sentio Systems
