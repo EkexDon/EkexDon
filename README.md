@@ -86,36 +86,16 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 
 ---
 
-### 🧠 NoPes — *Solo Developer*
-> Professional-grade, local-first knowledge management tool — Obsidian alternative built for speed, privacy, and visual thinking
+### 💻 Ebel-Baca-Code — *Solo Developer*
+> Local AI-powered coding assistant focused on privacy-first development workflows
 
-[![GitHub](https://img.shields.io/badge/GitHub-NoPes-181717?style=flat-square&logo=github)](https://github.com/EkexDon/NoPes) [![Live](https://img.shields.io/badge/Live-nopes--web.vercel.app-00C7B7?style=flat-square&logo=vercel)](https://nopes-web.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-E2Ebel-181717?style=flat-square&logo=github)](https://github.com/EkexDon/E2Ebel)
 
-**🔥 Pro Features**
+- 🔒 **Privacy-First:** Fully local setup with no cloud dependency and no API-key requirement
+- 🧠 **RAG Integration:** ChromaDB-based retrieval pipeline to extend local model context
+- ⌨️ **Developer UX:** Slash commands like `/index` and `/models` for fast terminal workflows
+- ⚙️ **Tech:** Python, ChromaDB, Ollama
 
-- 🎨 **Infinite Canvas (Whiteboard):** Excalidraw integration with `[[WikiLink]]`-linked shapes, auto-save, and visual mind mapping
-- 🧜 **Mermaid.js Diagrams:** Native rendering for flowcharts, sequence diagrams & Gantt charts with live preview / source toggle
-- 🤖 **Local AI Assistant (Ollama):** 100% offline, context-aware AI — chat with your vault, summarize notes, brainstorm — no API keys, no tracking
-- 📋 **Slash Command Templates:** `/template` command for Daily Notes, Meeting Minutes, Bug Reports, Code Reviews, and more
-- 🧊 **Advanced Table Editor:** Floating toolbar, header toggling, row/column management — built on TipTap table suite
-- 🔗 **Deep Interconnectivity:** Interactive `[[WikiLinks]]` with hover previews, Live Graph View, and Unlinked Mentions discovery
-- 📂 **Multi-Tab Interface:** Edit multiple notes simultaneously with a persistent tab bar
-- ⚡ **Command Bar (Cmd+K):** Blazing-fast keyboard-driven command palette
-- 📄 **Word to Markdown:** Drag-and-drop `.docx` files for instant high-fidelity conversion
-- 🖥️ **Rich Media:** Native inline support for PDFs, Videos, and Images
-- 🔒 **Local-First & Private:** Works directly with `.md` files — your data never leaves your machine
-- ⚙️ **Tech:** TypeScript, React 19, Tauri 2.0 (Rust), TipTap / ProseMirror, Excalidraw, Mermaid.js, Zustand, Ollama (Llama 3.2)
-
----
-
-### ☁️ Sentio Systems
-> Cloud platform for hyperlocal environmental monitoring
-
-- 🏗️ **Architecture:** Designed microservices architecture for IoT data processing
-- 🔧 **Tech:** Java (Spring Boot), PostgreSQL, Docker, MQTT, Keycloak
-- 📡 **IoT Integration:** Connected environmental sensors via MQTT protocol
-- ✅ **Quality:** Implemented Testcontainers for integration testing & Flyway for DB migrations
-- 📖 **Documentation:** Designed and documented RESTful APIs
 ---
 
 ### 🌐 MacroIntelTerminal — *Fullstack Developer*
@@ -132,7 +112,10 @@ I'm a **Medieninformatik student** at Hochschule der Medien Stuttgart, passionat
 ---
 
 ## 💼 Experience
-- **2026-2026:** Data Sciene Intern @ Lechler GmbH
+- **2026:** Software Engineering Intern (Data Science / AI Automation) @ Lechler GmbH
+  - Shipped 6 production PRs for camera-based measurement systems, including reporting, 3D reconstruction, and UI modernization
+  - Built a complete PDF/Excel reporting pipeline and contributed 1,000+ automated tests across projects
+  - Developed calibration and measurement tooling, identified critical legacy bugs, and improved system performance
 - **2021–2022:** Security Services @ BEKK-Security (Schweizer Electronics AG)
 - **2018:** IT Internship @ MS-Schramberg (System integration & IT infrastructure)
 
